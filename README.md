@@ -1,5 +1,8 @@
 <h1 align="left">Hello there👋 I'm Maxim</h1>
 
+![Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
+
+
 ###
 
 <p align="left">Computer Science Student, Epitech</p>
@@ -49,6 +52,4 @@
   <img src="https://streak-stats.demolab.com?user=Maxim-Dubreil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Maxim-Dubreil&theme=dracula&column=0&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<div class="tenor-gif-embed" data-postid="15385961914175037407" data-share-method="host" data-aspect-ratio="0.994186" data-width="100%"><a href="https://tenor.com/view/chill-dude-chill-dude-im-just-a-chill-dude-just-a-chill-dude-gif-15385961914175037407">Chill Dude Im Just A Chill Dude GIF</a>from <a href="https://tenor.com/search/chill+dude-gifs">Chill Dude GIFs</a></div> 
 ###
