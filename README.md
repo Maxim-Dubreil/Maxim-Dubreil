@@ -1,11 +1,12 @@
 <h1 align="left">Hello there👋 I'm Maxim</h1>
 
-![Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
-
-
 ###
 
 <p align="left">Computer Science Student, Epitech</p>
+
+###
+
+![Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
 
 ###
 
@@ -52,4 +53,3 @@
   <img src="https://streak-stats.demolab.com?user=Maxim-Dubreil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Maxim-Dubreil&theme=dracula&column=0&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-###
