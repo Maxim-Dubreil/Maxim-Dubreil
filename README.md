@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">📊 Stats for nerd :</h2>
+<h2 aligne="left">📊 Stats for nerd :</h2>
 
 <div aligne ="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Dubreil&theme=ambient_gradient&hide_border=true)
