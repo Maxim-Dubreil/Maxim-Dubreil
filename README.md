@@ -1,8 +1,6 @@
 <div>
-  <h1 align="left">Hello there👋 I'm Maxim</h1> 
-  <div align="tight">
-    <img src="https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6" alt="Profile Visit Count" />
-  </div>
+  <h1 align="left">Hello there👋 I'm Maxim</h1>      <img src="https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6" alt="Profile Visit Count" />
+
 </div>
 ###
 
