@@ -25,11 +25,11 @@
 
 ###
 
-<h2 align="left">💻 Languages and Tools :</h2>
+<h2 align="left" style="margin-top: 20px;">💻 Languages and Tools :</h2>
 
 ###
 
-<div align="left">
+<div align="left" style="margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -49,22 +49,22 @@
 
 ###
 
-<h2 align="left">📊 Stats for nerd :</h2>
+<h2 align="left" style="margin-top: 20px;">📊 Stats for nerd :</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Dubreil&theme=ambient_gradient&hide_border=true" alt="GitHub Streak Stats" />
+###
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
-<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Maxim-Dubreil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6" alt="Profile Visit Count" />
 </div>
