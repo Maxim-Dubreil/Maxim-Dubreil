@@ -2,23 +2,31 @@
 
 ###
 
-<p align="left">Computer Science Student, Epitech</p>
+<p align="left">Computer Science Student, Epitech<br></p>
 
 ###
 
+<div aligne="center">
 ![Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 
-<p align="left">📍 Rennes<br><br>👀 I'm interested in Web developement<br><br>🌱 Currently learning Java</p>
+<p
+  align="left">
+    🔭 Passionate about learning and exploring new ideas.<br><br>
+    🔧 Currently working on my portfolio and N&SA (Network & SysAdmin).<br><br>
+    🌱 Learning TypeScript and Vue.js to sharpen my web development skills.<br><br>
+    🤝 Open to collaboration and knowledge sharing!
+</p>
 
 ###
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">💻 Languages and Tools :</h3>
 
 ###
 
@@ -40,16 +48,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
 </div>
 
-
 ###
 
-<div align="left">
+<h2 align="left">📊 Stats for nerd :</h2>
+
+<div aligne ="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Dubreil&theme=ambient_gradient&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-###
+<div algin ="center">
+![](https://github-contributor-stats.vercel.app/api?username=Maxim-Dubreil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxim-Dubreil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Maxim-Dubreil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Maxim-Dubreil&theme=dracula&column=0&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+---
+<div aligne ="center">
+[![](https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6)](https://visitcount.itsvg.in)
 </div>
