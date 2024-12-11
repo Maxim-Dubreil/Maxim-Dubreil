@@ -1,16 +1,13 @@
 <div>
-  <h1 align="left">Hello there👋 I'm Maxim</h1>     
+  <h1 align="center">Hello there 👋, I'm Maxim !</h1>
+  <h3 align="center" style="font-weight: normal;">A Computer Science Student at Epitech</h3><br>
 </div>
-
-###
-
-<p align="left">Computer Science Student, Epitech<br></p>
 
 ###
 
 <div align="center">
-  <img src="https://media.tenor.com/images/6de49d9e1ee1cc1692788b4e41d20156/tenor.gif" alt="Hello There Baby Yoda Gif" />
-</div>
+  <img src="https://media.giphy.com/media/j4q4h9uWKWwnYT1k3Z/giphy.gif" alt="Your GIF" />
+</div><br>
 
 ###
 
@@ -23,7 +20,7 @@
     🔧 Currently working on my portfolio and N&SA (Network & SysAdmin).<br><br>
     🌱 Learning TypeScript and Vue.js to sharpen my web development skills.<br><br>
     🤝 Open to collaboration and knowledge sharing!
-</p>
+</p><br>
 
 ###
 
@@ -103,7 +100,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
-</div>
+</div><br>
 
 
 ###
@@ -113,8 +110,8 @@
 ###
 
 <div align="center" style="margin-top: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
