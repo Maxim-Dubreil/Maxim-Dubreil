@@ -1,6 +1,7 @@
 <div>
   <h1 align="left">Hello there👋 I'm Maxim</h1>     
 </div>
+
 ###
 
 <p align="left">Computer Science Student, Epitech<br></p>
@@ -8,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif" alt="Chill Guy GIF" />
+  <img src="https://tenor.com/view/hello-there-baby-yoda-mandolorian-hello-gif-20136589" alt="Hello There Gif" />
 </div>
 
 ###
