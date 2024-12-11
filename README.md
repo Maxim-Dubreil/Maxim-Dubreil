@@ -1,6 +1,5 @@
 <div>
-  <h1 align="left">Hello there👋 I'm Maxim</h1>      <img src="https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6" alt="Profile Visit Count" />
-
+  <h1 align="left">Hello there👋 I'm Maxim</h1>     
 </div>
 ###
 
@@ -114,11 +113,10 @@
 
 <div align="center" style="margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
   <img src="https://github-contributor-stats.vercel.app/api?username=Maxim-Dubreil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
