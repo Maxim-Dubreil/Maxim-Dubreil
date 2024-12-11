@@ -29,9 +29,9 @@
 
 ### 
 
-<h3 align="center">Web Development</h3>
+<h3 align="leftr">Web Development</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
@@ -43,9 +43,9 @@
 
 ###
 
-<h3 align="center">Backend & Server</h3>
+<h3 align="left">Backend & Server</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -55,9 +55,9 @@
 
 ###
 
-<h3 align="center">Frameworks & Libraries</h3>
+<h3 align="left">Frameworks & Libraries</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
@@ -67,9 +67,9 @@
 
 ###
 
-<h3 align="center">DevOps & Systems</h3>
+<h3 align="left">DevOps & Systems</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
@@ -89,9 +89,9 @@
 
 ###
 
-<h3 align="center">Tools & Platforms</h3>
+<h3 align="left">Tools & Platforms</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
