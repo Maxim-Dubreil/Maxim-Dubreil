@@ -7,7 +7,7 @@
 ###
 
 <div aligne="center">
-![Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
+[Chill Guy GIF](https://media.giphy.com/media/qJzZ4APiDZQuJDY7vh/giphy.gif)
 </div>
 
 ###
@@ -53,15 +53,15 @@
 <h2 aligne="left">📊 Stats for nerd :</h2>
 
 <div aligne ="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Dubreil&theme=ambient_gradient&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+(https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Dubreil&theme=ambient_gradient&hide_border=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 <div algin ="center">
-![](https://github-contributor-stats.vercel.app/api?username=Maxim-Dubreil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+(https://github-contributor-stats.vercel.app/api?username=Maxim-Dubreil&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 </div>
 
 ---
 <div aligne ="center">
-[![](https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6)](https://visitcount.itsvg.in)
+https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6)](https://visitcount.itsvg.in)
 </div>
