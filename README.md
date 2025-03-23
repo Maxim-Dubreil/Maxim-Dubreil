@@ -70,7 +70,3 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div><br>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Maxim-Dubreil&icon=1&color=6" alt="Profile Visit Count" />
-</div>
