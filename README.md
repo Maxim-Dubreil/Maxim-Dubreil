@@ -11,15 +11,6 @@
   <img src="https://media.giphy.com/media/j4q4h9uWKWwnYT1k3Z/giphy.gif" alt="Your GIF" style="border-radius: 50px;" />
 </div><br>
 
-## 💫 About Me
-
-- 🔭 Passionate about learning and exploring new ideas.
-- 🔧 Currently working on my portfolio and N&SA (Network & SysAdmin).
-- 🌱 Learning TypeScript and Vue.js to sharpen my web development skills.
-- 🤝 Open to collaboration and knowledge sharing!
-
-<br>
-
 ## 💻 Skills & Technologies
 
 ### Languages
