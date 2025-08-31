@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
 </div>
 
-### DevOps / Systems / Data
+### DevOps
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
 </div><br>
 
-## 📊 Stats for Nerds
+## 📊 
 
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
