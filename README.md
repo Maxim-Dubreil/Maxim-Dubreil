@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=2000&color=23FFDF&background=47FF3000&center=true&vCenter=true&width=435&height=20&lines=Computer+science+student+at+Epitech" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=2000&color=23FFDF&background=47FF3000&center=true&vCenter=true&width=435&height=20&lines=Computer+science+student" 
       alt="Typing SVG" />
   </a>
 </p>
@@ -34,11 +34,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxim-dubreil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maxim-dubreil&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -92,25 +87,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
-
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzb2V5OWtxbXltOXJwbDRjdmhoNHp4Ym1iZ3RoN2czNjU2cXoxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5MlV4tJzWdY4m6UgmT/giphy.gif"  />
+##
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt1NDBwcTVkZW0xejI3enZrc3Zxb2d1b3RpcjNqZXM0cHVlemhudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26h0rcFBZRm2epqA8/giphy.gif"  />
+<div height="200"></div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE0a2Q2dTFybDJvMGQ0amwzbTVjY20xbDVyeWFnMzU4YnV0NTNrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6iJl9K0QbYFHMC7Vhm/giphy.gif"  />
-</div>
-
-###
-
-## 📊 
 
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div><br>
+
+###
+
+<div align="center">
+<img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt1NDBwcTVkZW0xejI3enZrc3Zxb2d1b3RpcjNqZXM0cHVlemhudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26h0rcFBZRm2epqA8/giphy.gif"  />
+</div>
+
+###
