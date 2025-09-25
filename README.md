@@ -25,7 +25,7 @@
 
 ###
 
-<p align="center">Working on Studd, studying web<br>Go checkout the repo behind</p>
+<p align="center">Working on Studd, studying web app<br>Go checkout the repo behind</p>
 
 ###
 
