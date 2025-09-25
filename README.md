@@ -41,10 +41,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ5b2k4a3ZzN2hhaXZxZHd2MmEycDc1NTMxemJyaHh1aWx0YzUxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K0JrA2VbkFy2A/giphy.gif"  />
-
-###
-
 <h3 align="center">Languages & Frameworks</h3>
 
 ###
@@ -99,11 +95,5 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Maxim-Dubreil&theme=ambient-gradient&hide_border=true" alt="GitHub Streak Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Dubreil&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div><br>
-
-###
-
-<div align="center">
-<img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt1NDBwcTVkZW0xejI3enZrc3Zxb2d1b3RpcjNqZXM0cHVlemhudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26h0rcFBZRm2epqA8/giphy.gif"  />
-</div>
 
 ###
